@@ -1,7 +1,7 @@
 /*
  *  Weatherbot
  *
- *  Simple ESP8266 sketch for gathering temperature/humidity data
+ *  ESP8266 sketch for gathering temperature/humidity data
  *  from a DHT-22 sensor and delivering it over WiFi to a 
  *  remote server API
  *
